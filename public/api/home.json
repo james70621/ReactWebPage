@@ -1,0 +1,119 @@
+{
+  "success":true,
+  "data":{
+    "topicList": [
+      {
+        "id": 1,
+        "title": "Society",
+        "imgUrl": "https://i.pinimg.com/736x/99/48/50/994850b10ce5a98e99b60f0c44b73690.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Painting",
+        "imgUrl": "https://photo69.macsc.com/2019/05/20/EPS-190520_200/YTzDREuB2Q_small.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Movies",
+        "imgUrl": "https://png.pngtree.com/element_our/20200611/ourlarge/pngtree-film-film-image_2250339.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Reading",
+        "imgUrl": "https://photoos.macsc.com/2020/04/13/JPG-200413_397/8351ebxRtG_small.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Photography",
+        "imgUrl": "https://photoos.macsc.com/2019/05/10/JPG-190510_356/k1FSvHvbFs_small.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Travel",
+        "imgUrl": "http://pic.5tu.cn/uploads/allimg/1610/pic_5tu_big_20160100101630372008.jpg"
+      },
+      {
+        "id": 7,
+        "title": "History",
+        "imgUrl": "https://bpic.51yuansu.com/pic3/cover/01/54/00/5945524c18aeb_610.jpg"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "Nasdaq 100 futures fall slightly after chip giant Nvidia delivers light guidance",
+        "desc": "Stock futures were mixed on Wednesday evening as investors digested a disappointing update from Nvidia, an economic bellwether in the technology industry...",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/107064481-1653056970321-gettyimages-1240758748-US-NEW_YORK-STOCK_MARKET-FALL.jpeg"
+      },
+      {
+        "id": 2,
+        "title": "Fed minutes point to more rate hikes that go further than the market anticipates",
+        "desc": "Federal Reserve officials earlier this month stressed the need to raise interest rates quickly and possibly more than markets anticipate to tackle a burgeoning inflation problem, minutes from their meeting released Wednesday showed...",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/107056177-1651694328489-gettyimages-1395398679-wm_10724_cf602372-7584-4302-8fef-8735fa4e064d.jpeg"
+      },
+      {
+        "id": 3,
+        "title": "China and Europe are leading the push to regulate A.I. — one of them could set the global playbook",
+        "desc": "As China and Europe try to rein in artificial intelligence, a new front is opening up around who will set the standards for the burgeoning technology...",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/107059215-1652250995631-gettyimages-1235972990-AFP_9PX9NW.jpeg"
+      },
+      {
+        "id": 4,
+        "title": "‘Kissinger still lives in the 20th century’: Ukraine rejects suggestion it should cede land to Putin",
+        "desc": "A Ukrainian MP has given what he called a “polite” reply to former U.S. Secretary of State Henry Kissinger’s suggestion that Ukraine should be prepared to cede some territory to Moscow in order to reach a peace deal...",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/106830695-1611754120053-gettyimages-525598238-bkkissinger200712127507.jpeg"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": 1,
+        "imgUrl": "challenge"
+      },
+      {
+        "id": 2,
+        "imgUrl": "membership"
+      },
+      {
+        "id": 3,
+        "imgUrl": "recommend"
+      },
+      {
+        "id": 4,
+        "imgUrl": "copyright"
+      }
+    ],
+    "writerList": [
+      {
+        "id": 1,
+        "writerName": "Bronu Mars",
+        "likes": 516131,
+        "imgUrl": "https://api.multiavatar.com/eddafe26c2ba5ed10e.png"
+      },
+      {
+        "id": 2,
+        "writerName": "Atom Smis",
+        "likes": 445611,
+        "imgUrl": "https://api.multiavatar.com/cc05ca61b8f726c0e3.png"
+      },
+      {
+        "id": 3,
+        "writerName": "Uber hugger",
+        "likes": 45633,
+        "imgUrl": "https://api.multiavatar.com/44eaeda06b5778904e.png"
+      },
+      {
+        "id": 4,
+        "writerName": "Jonny Deep",
+        "likes": 954133,
+        "imgUrl": "https://api.multiavatar.com/9019522160ca683e78.png"
+      },
+      {
+        "id": 5,
+        "writerName": "Multi Avatar",
+        "likes": 332100,
+        "imgUrl": "https://api.multiavatar.com/594249f4027f670b3a.png"
+      }
+    ]
+  }
+}
+  
